@@ -20,19 +20,19 @@ in the data science field.
   - **Salary by Experience Level**: There is a clear correlation between salary and experience, with **Senior-level** professionals earning the most.
   - **Top Earning Roles**: **Data Engineers**, **Data Scientists**, and **Directors** are the highest-paid roles within the data science industry.
   - **Geographic Insights**: The **United States** dominates in both employee residence and company location, followed by **Israel**, **Puerto Rico**, and **Malaysia**,
-  - where salaries are also high despite fewer entries.
+    where salaries are also high despite fewer entries.
 
 ## Visualizations
 
 - **Experience Level Distribution**: This pie chart shows that **Senior-level** employees dominate the dataset, while **Junior** and **Director** level professionals are
--  less common.
+   less common.
 - **Employment Type Distribution**: A bar chart demonstrating that almost all employees are in full-time positions, while freelance and part-time roles make up a small
-- fraction.
+  fraction.
 - **Top 10 Job Titles**: The bar chart displays the most common job titles within the data science field, with **Data Engineer**, **Data Scientist**, and **Data Analyst**
-- leading the list.
+  leading the list.
 - **Salary Distribution**: A histogram showing the distribution of salaries, with the majority of employees earning between **$100k and $150k** per year.
 - **Salary by Experience Level**: A boxplot revealing salary differences across **Junior**, **Intermediate**, **Senior**, and **Director** levels, showing higher salaries
-- for more experienced roles.
+  for more experienced roles.
 - **Work Type by Year**: A bar chart analyzing how **remote work** has evolved over the years, with a noticeable increase in remote positions.
 
 ## Conclusion
