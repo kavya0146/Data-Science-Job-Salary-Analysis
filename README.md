@@ -6,7 +6,7 @@ This analysis explores the distribution of salaries for data science professiona
 in the data science field.
 
 ## Key Findings
-- **Experience Level**: The data shows that **Senior-level** employees make up the majority of the workforce, while **Intermediate-level** professionals follow closely.**Junior** and **Director** level employees represent a much smaller share.
+- **Experience Level**: The data shows that **Senior-level** employees make up the majority of the workforce, while **Intermediate-level** professionals follow closely. **Junior** and **Director** level employees represent a much smaller share.
 - **Employment Type**: Over **98%** of employees are in full-time roles, suggesting that freelance, part-time, and contract positions are not as common in the data science
  sector.
 - **Job Titles**: The most frequently reported job titles are **Data Engineer**, **Data Scientist**, and **Data Analyst**, with related titles also showing significant
@@ -14,7 +14,7 @@ in the data science field.
 - **Work Type**: **Remote work** has become increasingly popular, with approximately **46.1%** of data scientists working fully remote. However, a substantial portion still
  work on-site.
 - **Company Size**: The majority of data scientists work in **medium-sized companies**, followed by **large companies**. **Small companies** tend to have fewer data science
-- professionals, but those roles often demand more flexibility in terms of experience.
+ professionals, but those roles often demand more flexibility in terms of experience.
 - **Salary Distribution**:
   - **Salary by Year**: The average salary has steadily increased, with the most significant spike occurring in **2023**.
   - **Salary by Experience Level**: There is a clear correlation between salary and experience, with **Senior-level** professionals earning the most.
